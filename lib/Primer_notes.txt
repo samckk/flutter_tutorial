@@ -1,0 +1,18 @@
+Root widget
+	AppBar widget  Text widget
+	Container widget  Text widget
+Common widgets
+•	Text, button, row, column, image
+Default setting: Nexus 6, Pie, graphics: hardware
+Lib folder, main.dart is where most coding takes place
+
+Fonts:
+1. Google fonts to get the custom font
+2. Open font file in directory
+3. Pull the font into the font file
+4. Change pubspec.yaml
+5. Shift-tab to unindent, Shift-forward slash to uncomment
+6.  fonts:
+      - family: IndieFlower
+        fonts:
+          - asset: fonts/IndieFlower-Regular.ttf
